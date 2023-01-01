@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+ipywidgets
+albumentations
+torch
+torchvision
+torch-summary
+levenshtein
+tqdm
